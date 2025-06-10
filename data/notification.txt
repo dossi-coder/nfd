@@ -1,2 +1,2 @@
-如有交易请核实对方身份
+Please verify the identity of the counterparty in case of transaction.
 
