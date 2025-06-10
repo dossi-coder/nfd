@@ -1,1 +1,1 @@
-You can send massage to Tohka by this bot.
+Now you can send messages.
